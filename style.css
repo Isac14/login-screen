@@ -77,7 +77,7 @@ top: -5px;
     top: 20px;
 }
 
-.forget{
+.remember{
     margin: -15px 0 15px;
     font-size: .9em;
     color: #fff;
@@ -85,16 +85,16 @@ top: -5px;
     justify-content: center;
 }
 
-.forget label input{
+.remember label input{
     margin-right: 3px;
 }
 
-.forget label a{
+.remember label a{
     color: #fff;
     text-decoration: none;
 }
 
-.forget label a:hover{
+.remember label a:hover{
     text-decoration: underline;
 }
 
@@ -125,7 +125,6 @@ button{
 
 .register p a:hover{
     text-decoration: underline;
-
 }
 
 
@@ -175,7 +174,7 @@ button{
             left: 90%;
         }
 
-        .forget{
+        .remember{
             margin: -15px 0 15px;
             font-size: 2em;
             color: #fff;
